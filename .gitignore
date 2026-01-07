@@ -1,0 +1,61 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# ===================================
+# SECURITY: API Keys & Sensitive Data
+# ===================================
+# Google Services JSON contains Firebase API keys
+google-services.json
+**/google-services.json
+app/google-services.json
+
+# Keystore files - NEVER commit these!
+*.jks
+*.keystore
+*.p12
+*.pem
+**/resqnav-keystore.jks
+app/resqnav-keystore.jks
+app/my-release-certificate.pem
+
+# Local configuration with API keys
+keystore.properties
+secrets.properties
+local.properties
+
+# API Keys configuration
+**/GroqConfig.kt.local
+**/ApiKeys.kt
+
+# ===================================
+# Build & Cache
+# ===================================
+/app/build/
+/app/release/
+*.apk
+*.aab
+*.dex
+*.class
+
+# ===================================
+# IDE
+# ===================================
+/.idea/
+*.iws
+.idea/*
+!.idea/codeStyles
+!.idea/inspectionProfiles
+

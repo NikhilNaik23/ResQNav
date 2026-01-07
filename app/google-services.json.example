@@ -1,0 +1,44 @@
+{
+  "_comment": "This is a TEMPLATE file. Get your actual google-services.json from Firebase Console",
+  "_instructions": "1. Go to Firebase Console (https://console.firebase.google.com/)",
+  "_instructions2": "2. Select your project",
+  "_instructions3": "3. Go to Project Settings → General",
+  "_instructions4": "4. Download google-services.json for Android",
+  "_instructions5": "5. Place it in app/ directory (replacing this template)",
+  "_warning": "NEVER commit the real google-services.json to Git!",
+
+  "project_info": {
+    "project_number": "YOUR_PROJECT_NUMBER",
+    "firebase_url": "https://YOUR_PROJECT.firebaseio.com",
+    "project_id": "YOUR_PROJECT_ID",
+    "storage_bucket": "YOUR_PROJECT.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "YOUR_MOBILE_SDK_APP_ID",
+        "android_client_info": {
+          "package_name": "com.resqnav.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "YOUR_CLIENT_ID.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "YOUR_FIREBASE_API_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+

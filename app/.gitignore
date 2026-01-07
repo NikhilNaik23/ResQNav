@@ -1,0 +1,12 @@
+/build
+/release
+
+# Sensitive files - NEVER commit these!
+google-services.json
+*.jks
+*.keystore
+*.p12
+*.pem
+resqnav-keystore.jks
+my-release-certificate.pem
+keystore.properties
