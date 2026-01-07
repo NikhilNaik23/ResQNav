@@ -88,7 +88,7 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/NikhilNaik7386/ResQNav.git
+git clone https://github.com/NikhilNaik23/ResQNav.git
 cd ResQNav
 ```
 
@@ -242,8 +242,6 @@ We welcome contributions! Please follow these steps:
 - Follow Kotlin coding conventions
 - Update documentation if needed
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
-
 ---
 
 ## 🐛 Known Issues & Limitations
@@ -279,7 +277,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors & Maintainers
 
-- **Nikhil Naik** - Initial work - [@nikhilnaik](https://github.com/nikhilnaik)
+- **Nikhil Naik** - Initial work - [@nikhilnaik23](https://github.com/nikhilnaik23)
 
 ---
 
@@ -297,26 +295,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support & Contact
 
-- **Issues**: [GitHub Issues](https://github.com/NikhilNaik7386/ResQNav/issues)
-- **Documentation**: [Wiki](https://github.com/NikhilNaik7386/ResQNav/wiki)
+- **Issues**: [GitHub Issues](https://github.com/NikhilNaik23/ResQNav/issues)
+- **Documentation**: [Wiki](https://github.com/NikhilNaik23/ResQNav/wiki)
 - **Discord**: [Join our community](https://discord.gg/resqnav)
 - **Documentation**: [Wiki](https://github.com/YOUR_USERNAME/ResQNav/wiki)
 
 ---
-
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/ResQNav&type=Date)](https://star-history.com/#YOUR_USERNAME/ResQNav&Date)
-
----
-
-## 📊 Project Stats
-
-![GitHub code size](https://img.shields.io/github/languages/code-size/YOUR_USERNAME/ResQNav)
-![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_USERNAME/ResQNav)
-![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/ResQNav)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/YOUR_USERNAME/ResQNav)
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/ResQNav)
 
 ---
 
@@ -325,4 +309,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <br>
   <sub>© 2026 ResQNav. All rights reserved.</sub>
 </div>
-
